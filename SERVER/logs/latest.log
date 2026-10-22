@@ -18315,3 +18315,152 @@ java.lang.IllegalArgumentException: set is not a valid operation!
 [22Oct2026 21:32:03.721] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/starlight_network for level allthemodium:the_other finished
 [22Oct2026 21:32:03.722] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/starlight_network for level ae2:spatial_storage
 [22Oct2026 21:32:03.722] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/starlight_network for level ae2:spatial_storage finished
+[22Oct2026 21:35:09.763] [Netty Epoll Server IO #2/INFO] [potionsmaster/]: DynamicRecipeProvider.location() called
+[22Oct2026 21:35:25.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sugurukaos[/127.144.22.58:49091] logged in with entity id 1875 at (639.457344760827, 70.0, 12.038960735030845)
+[22Oct2026 21:35:25.947] [Server thread/INFO] [Modonomicon/]: Building books ...
+[22Oct2026 21:35:25.973] [Server thread/INFO] [Modonomicon/]: Books built.
+[22Oct2026 21:35:28.437] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff reading 2818 global loot modifiers
+[22Oct2026 21:35:36.188] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff walked 2595 loot tables in 10068ms producing 1615 recipes
+[22Oct2026 21:35:36.188] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff split 138 sources across pages, the largest being minecraft:chests/abandoned_mineshaft with 265 drops against the 48 chest_loot draws
+[22Oct2026 21:35:36.188] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff applied loot modifiers 91884 times across the walk
+[22Oct2026 21:35:36.597] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff read 131 trade recipes in 408ms
+[22Oct2026 21:35:36.598] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff 153 trade listings offer more than one trade
+[22Oct2026 21:35:36.598] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff 22 trade listings offered nothing to a plain trader
+[22Oct2026 21:35:36.658] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff found 354 ore distributions in 57ms
+[22Oct2026 21:35:36.694] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff built 319 ore distribution recipes
+[22Oct2026 21:35:36.941] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff 14 interactions beside minecraft:water nearly cover every fluid, missing 6: [sauce:source_fluid, astralsorcery:liquid_starlight, undergarden:virulent_mix_source, eternal_starlight:ether, create_enchantment_industry:infused_dragon_breath, create_dragons_plus:dragon_breath]
+[22Oct2026 21:35:36.942] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff read 119 fluid interactions in 238ms
+[22Oct2026 21:35:37.066] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff sending 2184 recipes in 1555 KB over 3 packets {bartering=3, chest_loot=766, fishing=12, fluid_interaction=119, gifts=22, mob_loot=468, ore=319, plant_drops=344, villager_trade=32, wandering_trade=99}
+[22Oct2026 21:35:37.230] [Server thread/INFO] [ars_unification/]: AE2CircuitPrintingProcesser processed recipes in 117.8 ms
+[22Oct2026 21:35:37.338] [Server thread/INFO] [ars_unification/]: IntegratedDynamicsSqueezerProcessor processed recipes in 107.3 ms
+[22Oct2026 21:35:37.445] [Server thread/INFO] [ars_unification/]: OccultismCrusherProcessor processed recipes in 106.6 ms
+[22Oct2026 21:35:37.593] [Server thread/INFO] [ars_unification/]: MekanismCrusherProcessor processed recipes in 148.2 ms
+[22Oct2026 21:35:37.743] [Server thread/INFO] [ars_unification/]: MekanismSawmillProcessor processed recipes in 148.7 ms
+[22Oct2026 21:35:37.832] [Server thread/INFO] [ars_unification/]: ModernIndustrializationCompressorProcessor processed recipes in 89.06 ms
+[22Oct2026 21:35:37.929] [Server thread/INFO] [ars_unification/]: ModernIndustrializationMaceratorProcessor processed recipes in 95.75 ms
+[22Oct2026 21:35:38.026] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringCrusherProcessor processed recipes in 96.95 ms
+[22Oct2026 21:35:38.126] [Server thread/INFO] [ars_unification/]: ActuallyAdditionsCrusherProcessor processed recipes in 98.99 ms
+[22Oct2026 21:35:38.199] [Server thread/INFO] [ars_unification/]: ImmersiveEngineeringSawmillProcessor processed recipes in 72.47 ms
+[22Oct2026 21:35:38.273] [Server thread/INFO] [ars_unification/]: FarmersDelightCuttingBoardProcessor processed recipes in 73.97 ms
+[22Oct2026 21:35:38.353] [Server thread/INFO] [ars_unification/]: AE2InscriberProcesser processed recipes in 79.41 ms
+[22Oct2026 21:35:38.354] [Server thread/INFO] [ars_unification/]: Finished processing recipes in 1.242 s
+[22Oct2026 21:35:38.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos joined the game
+[22Oct2026 21:35:38.582] [Server thread/INFO] [Astral Sorcery/]: Loading player progress for 7232c28a-a6f1-3849-ad94-6b06a666f442.
+[22Oct2026 21:35:39.409] [Netty Epoll Server IO #2/INFO] [immersiveengineering/]: Recipes for potions: apothic_attributes:resistance, minecraft:fire_resistance, irons_spellbooks:instant_mana_three, ars_nouveau:freezing_potion_long, apothic_attributes:flying, apothic_attributes:long_absorption, deeperdarker:long_sculk_affinity, apothic_attributes:grievous, apothic_attributes:long_wither, apothic_attributes:long_fatigue, minecraft:weakness, irons_spellbooks:instant_mana_one, apothic_attributes:absorption, apothic_attributes:strong_sundering, minecraft:slow_falling, apothic_attributes:wither, ars_nouveau:spell_damage_potion, minecraft:long_slow_falling, minecraft:oozing, ars_nouveau:mana_regen_potion, ars_nouveau:shielding_potion_strong, ars_nouveau:blasting_potion_strong, minecraft:long_night_vision, ars_nouveau:spell_damage_potion_long, apothic_attributes:strong_vitality, minecraft:wind_charged, deeperdarker:glowing, eternal_starlight:strong_hunger, minecraft:weaving, occultism:long_third_eye_potion, potionsmaster:netherite_scrap, ars_nouveau:shielding_potion_long, potionsmaster:allthemodium, apothic_attributes:strong_resistance, undergarden:featherweight, undergarden:strong_featherweight, minecraft:strong_leaping, eternal_starlight:long_hunger, minecraft:strength, ars_nouveau:mana_regen_potion_strong, apothic_attributes:long_flying, undergarden:virulent_resistance, irons_spellbooks:instant_mana_four, minecraft:invisibility, minecraft:strong_turtle_master, minecraft:long_weakness, eternal_starlight:hunger, undergarden:long_featherweight, apothic_attributes:long_knowledge, apothic_attributes:strong_grievous, minecraft:leaping, apothic_attributes:fatigue, potionsmaster:copper, deeperdarker:sculk_affinity, ars_elemental:shock_potion_long, apothic_attributes:levitation, minecraft:infested, potionsmaster:emerald, apothic_attributes:knowledge, minecraft:turtle_master, potionsmaster:silver, ars_nouveau:recovery_potion_long, potionsmaster:uranium, minecraft:strong_harming, apothic_attributes:extra_long_flying, potionsmaster:redstone, tombstone:spectral, minecraft:water, apothic_attributes:long_resistance, potionsmaster:quartz, potionsmaster:vibranium, ars_nouveau:blasting_potion, ars_elemental:shock_potion, ars_nouveau:spell_damage_potion_strong, minecraft:awkward, potionsmaster:nickel, undergarden:long_glowing, potionsmaster:unobtainium, minecraft:long_slowness, ars_elemental:enderference_potion_long, ars_nouveau:freezing_potion, minecraft:strong_slowness, the_bumblezone:neurotoxin, ars_nouveau:recovery_potion_strong, potionsmaster:diamond, minecraft:strong_healing, potionsmaster:gold, apothic_attributes:long_grievous, apothic_attributes:sundering, apothic_attributes:strong_fatigue, apothic_attributes:vitality, minecraft:strong_regeneration, minecraft:long_leaping, minecraft:swiftness, minecraft:luck, potionsmaster:lapis, apothic_attributes:strong_absorption, minecraft:strong_swiftness, undergarden:glowing, minecraft:long_regeneration, undergarden:long_virulent_resistance, minecraft:long_water_breathing, ars_nouveau:shielding_potion, apothic_attributes:haste, potionsmaster:tin, minecraft:poison, potionsmaster:zinc, occultism:third_eye_potion, potionsmaster:lead, potionsmaster:coal, potionsmaster:iron, apothic_attributes:long_haste, minecraft:slowness, ars_nouveau:recovery_potion, ars_nouveau:blasting_potion_long, irons_spellbooks:instant_mana_two, potionsmaster:platinum, potionsmaster:osmium, undergarden:brittleness, ars_nouveau:mana_regen_potion_long, undergarden:strong_brittleness, apothic_attributes:strong_knowledge, apothic_attributes:strong_haste, minecraft:healing, minecraft:regeneration, ars_nouveau:freezing_potion_strong, minecraft:harming, minecraft:strong_poison, apothic_attributes:long_sundering, potionsmaster:aluminum, minecraft:long_turtle_master, minecraft:long_fire_resistance, apothic_attributes:long_vitality, minecraft:night_vision, ars_elemental:enderference_potion, minecraft:long_strength, minecraft:long_poison, the_bumblezone:long_neurotoxin, minecraft:long_invisibility, minecraft:long_swiftness, minecraft:water_breathing, minecraft:strong_strength, undergarden:long_brittleness, apothic_attributes:strong_wither
+[22Oct2026 21:35:39.595] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 61.37 ms. 43912/46626 recipes are parallelized.
+[22Oct2026 21:35:39.905] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 297.6 μs. 287/574 recipes are parallelized.
+[22Oct2026 21:35:40.354] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 610.6 μs. 736/740 recipes are parallelized.
+[22Oct2026 21:35:40.683] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[22Oct2026 21:35:40.922] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{sugurukaos} with UUID 7232c28a-a6f1-3849-ad94-6b06a666f442.
+[22Oct2026 21:35:41.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16296ms or 325 ticks behind
+[22Oct2026 21:35:41.884] [Server thread/INFO] [journeymap/]: JourneyMap client version for sugurukaos: 6.0.9 (server version: 6.0.9)
+[22Oct2026 21:35:41.979] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:35:41.980] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:35:41.981] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sugurukaos (20)
+[22Oct2026 21:35:42.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sugurukaos
+[22Oct2026 21:35:44.206] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:soil cache in 1019.0078ms. 269 / 269 entries cached.
+[22Oct2026 21:35:49.269] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:crop cache in 5061.6494ms. 1219 / 1219 entries cached.
+[22Oct2026 21:35:49.280] [Server thread/INFO] [ObserverLib/]: Loading WorldData observerlib/structure_buffer for level minecraft:overworld
+[22Oct2026 21:35:49.290] [Server thread/INFO] [ObserverLib/]: Loading WorldData observerlib/structure_buffer for level minecraft:overworld finished
+[22Oct2026 21:35:49.423] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:35:49.424] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:35:49.424] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:36:09.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13032ms or 260 ticks behind
+[22Oct2026 21:36:39.504] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:36:39.504] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:37:07.743] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:37:07.744] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:37:36.414] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:37:36.417] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:03.220] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:03.221] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:30.649] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:30.650] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:57.892] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:38:57.893] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:39:25.045] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:39:25.046] [Server thread/WARN] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: Failed to find merchant offer for map
+[22Oct2026 21:39:49.785] [Worker-Main-7/ERROR] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=2]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: BlockPos{x=5208, y=85, z=54008} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[22Oct2026 21:40:26.532] [Worker-Main-8/ERROR] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=2]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: BlockPos{x=-55815, y=65, z=47656} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[22Oct2026 21:40:38.743] [Worker-Main-7/ERROR] [com.telepathicgrunt.repurposedstructures.RepurposedStructures/]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=1]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: BlockPos{x=-35031, y=65, z=56088} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[22Oct2026 21:42:28.517] [Netty Epoll Server IO #3/INFO] [potionsmaster/]: DynamicRecipeProvider.location() called
+[22Oct2026 21:42:31.904] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 21:42:31.904] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 21:42:31.909] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2356MB / Diff: +0MB
+[22Oct2026 21:42:31.909] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[22Oct2026 21:42:42.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mumu[/127.158.214.248:34637] logged in with entity id 48863 at (-2245.05533452725, 137.0, 1992.6846111874245)
+[22Oct2026 21:42:42.997] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff sending 2184 recipes in 1555 KB over 3 packets {bartering=3, chest_loot=766, fishing=12, fluid_interaction=119, gifts=22, mob_loot=468, ore=319, plant_drops=344, villager_trade=32, wandering_trade=99}
+[22Oct2026 21:42:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu joined the game
+[22Oct2026 21:42:43.045] [Server thread/INFO] [Astral Sorcery/]: Loading player progress for 6d5922c1-4146-3e92-bccb-dad52580d0f0.
+[22Oct2026 21:42:43.428] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[22Oct2026 21:42:43.465] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{mumu} with UUID 6d5922c1-4146-3e92-bccb-dad52580d0f0.
+[22Oct2026 21:42:45.281] [Server thread/INFO] [journeymap/]: JourneyMap client version for mumu: 6.0.9 (server version: 6.0.9)
+[22Oct2026 21:42:45.282] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mumu (20)
+[22Oct2026 21:42:45.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mumu
+[22Oct2026 21:42:47.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[22Oct2026 21:52:34.148] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 21:52:34.149] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 21:52:34.149] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2477MB / Diff: +121MB
+[22Oct2026 21:52:34.149] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[22Oct2026 21:56:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> home
+[22Oct2026 21:59:09.658] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+[22Oct2026 21:59:09.658] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[22Oct2026 21:59:09.658] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.1.259/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38) ~[neoforge-21.1.259-universal.jar%23591!/:?]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:45) ~[Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:42) ~[Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72) ~[Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:68) ~[Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:286) ~[Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:592) [Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:208) [Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:243) [Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/jade@15.10.6+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) [Jade-1.21.1-NeoForge-15.10.6.jar%23820!/:15.10.6+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.mixinextras$bridge$managedBlock$291(MinecraftServer.java) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.wrapOperation$zbp000$modernfix$managedBlock(MinecraftServer.java:2154) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) [server-1.21.1-20240808.144430-srg.jar%23590!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) [?:?]
+[22Oct2026 22:02:34.149] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:02:34.150] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:02:34.150] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2500MB / Diff: +144MB
+[22Oct2026 22:02:34.150] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[22Oct2026 22:07:13.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sugurukaos lost connection: Disconnected
+[22Oct2026 22:07:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos left the game
+[22Oct2026 22:07:13.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sugurukaos

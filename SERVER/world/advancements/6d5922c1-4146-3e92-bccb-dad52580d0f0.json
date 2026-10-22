@@ -1881,9 +1881,21 @@
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/menril_production": {
+  "supplementaries:recipe/buntings/bunting_black": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:12:39 +0000"
+      "has_tag_c_dyes_black_2": "2026-10-22 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-10-22 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_tag_c_dyes_black_1": "2026-10-22 00:11:59 +0000"
     },
     "done": true
   },
@@ -1893,9 +1905,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/buntings/bunting_black": {
+  "integrateddynamics:meneglin_basics/menril_production": {
     "criteria": {
-      "has_tag_c_dyes_black_2": "2026-10-22 00:11:59 +0000"
+      "criteria_0": "2026-10-22 00:12:39 +0000"
     },
     "done": true
   },
@@ -1905,27 +1917,15 @@
     },
     "done": true
   },
-  "integrateddynamics:network_foundations/variable_input": {
+  "integrateddynamics:network_foundations/cables_logic": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:26:16 +0000"
+      "criteria_0": "2026-10-22 00:15:41 +0000"
     },
     "done": true
   },
-  "integratedterminals:root": {
+  "integrateddynamics:network_foundations/variables": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:37:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/soap/piston": {
-    "criteria": {
-      "has_item_minecraft_sticky_piston_1": "2026-10-22 00:25:57 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:network_foundations/variable_output": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:37:15 +0000"
+      "criteria_0": "2026-10-22 00:16:21 +0000"
     },
     "done": true
   },
@@ -1941,39 +1941,33 @@
     },
     "done": true
   },
-  "integratedterminals:storage_terminal/craft_storage_terminal": {
+  "integratedtunnels:root": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:38:46 +0000"
+      "criteria_0": "2026-10-22 00:16:22 +0000"
     },
     "done": true
   },
-  "integrateddynamics:network_foundations/variables": {
+  "supplementaries:recipe/soap/piston": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:16:21 +0000"
+      "has_item_minecraft_sticky_piston_1": "2026-10-22 00:25:57 +0000"
     },
     "done": true
   },
-  "integratedterminals:storage_terminal/gui_storage_terminal": {
+  "integrateddynamics:network_foundations/variable_input": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:39:08 +0000"
+      "criteria_0": "2026-10-22 00:26:16 +0000"
     },
     "done": true
   },
-  "integratedterminals:storage_terminal/menril_glass": {
+  "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:38:42 +0000"
+      "criteria_0": "2026-10-22 00:37:15 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_black": {
+  "integratedterminals:root": {
     "criteria": {
-      "has_tag_c_dyes_black_2": "2026-10-22 00:11:59 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:network_foundations/cables_logic": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:15:41 +0000"
+      "criteria_0": "2026-10-22 00:37:28 +0000"
     },
     "done": true
   },
@@ -1983,15 +1977,21 @@
     },
     "done": true
   },
-  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+  "integratedterminals:storage_terminal/menril_glass": {
     "criteria": {
-      "has_tag_c_dyes_black_1": "2026-10-22 00:11:59 +0000"
+      "criteria_0": "2026-10-22 00:38:42 +0000"
     },
     "done": true
   },
-  "integratedtunnels:root": {
+  "integratedterminals:storage_terminal/craft_storage_terminal": {
     "criteria": {
-      "criteria_0": "2026-10-22 00:16:22 +0000"
+      "criteria_0": "2026-10-22 00:38:46 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:39:08 +0000"
     },
     "done": true
   },
