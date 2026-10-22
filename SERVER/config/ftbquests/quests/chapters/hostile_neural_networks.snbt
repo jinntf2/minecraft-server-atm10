@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "1BC8379FEA5EB78F"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.5d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4339CD45F323BFDF"
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
 			width: 1.5d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 0.6d
+			id: "6E67EF063B5B6BCE"
 			image: "hostilenetworks:item/prediction_matrix"
 			rotation: 0.0d
 			width: 0.6d
@@ -1377,10 +1380,10 @@
 		}
 		{
 			id: "12AE2856444996F6"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "6B580F95A2E5A465"

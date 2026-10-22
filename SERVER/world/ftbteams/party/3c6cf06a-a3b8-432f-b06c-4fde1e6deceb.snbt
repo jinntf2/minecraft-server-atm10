@@ -1,0 +1,44 @@
+{
+	id: "3c6cf06a-a3b8-432f-b06c-4fde1e6deceb"
+	type: "party"
+	owner: "7232c28a-a6f1-3849-ad94-6b06a666f442"
+	ranks: {
+		7232c28a-a6f1-3849-ad94-6b06a666f442: "owner"
+		37683e62-f442-398b-b9c5-83173e9fc229: "member"
+		2953d54f-2b99-345e-b1ea-0a366fb0850c: "member"
+		9823f61b-98fe-3aab-aed0-4d7e41d3a51b: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "techgod territory"
+		"ftbteams:description": "333"
+		"ftbteams:color": "#34FF03"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "allies"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792300073814L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"sugurukaos\"],\"color\":\"yellow\"}" }
+		{ from: "7232c28a-a6f1-3849-ad94-6b06a666f442", date: 1792306718225L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"XSHIN\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792306756901L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"XSHIN\"],\"color\":\"green\"}" }
+		{ from: "7232c28a-a6f1-3849-ad94-6b06a666f442", date: 1792307282002L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"joaopedrogay\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792307322402L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"joaopedrogay\"],\"color\":\"green\"}" }
+		{ from: "7232c28a-a6f1-3849-ad94-6b06a666f442", date: 1792361498991L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"nyles\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792361537947L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"nyles\"],\"color\":\"green\"}" }
+		{ from: "7232c28a-a6f1-3849-ad94-6b06a666f442", date: 1792361546045L, text: "\"652\"" }
+		{ from: "7232c28a-a6f1-3849-ad94-6b06a666f442", date: 1792361565140L, text: "\"652 68 8\"" }
+	]
+	extra: { }
+}

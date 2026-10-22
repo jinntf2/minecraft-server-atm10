@@ -7,6 +7,7 @@
 		id: "refinedstorage:creative_controller"
 	}
 	id: "15AAF17B6665223D"
+	images: [ ]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -1718,10 +1719,10 @@
 		}
 		{
 			id: "34F7325C2AFA6DA7"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "2AEFA81B8D7EB62B"

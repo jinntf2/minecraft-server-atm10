@@ -1,0 +1,31 @@
+{
+	id: "4db726bf-9bd4-4edd-941c-ef077428e405"
+	type: "party"
+	owner: "edd5d9fc-6264-3dd3-93ff-9212f22b01d1"
+	ranks: {
+		edd5d9fc-6264-3dd3-93ff-9212f22b01d1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pirocas duras"
+		"ftbteams:description": "dwAAW"
+		"ftbteams:color": "#59FFE3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1792350349561L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"kotokoplinio\"],\"color\":\"yellow\"}" }]
+	extra: { }
+}

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "49D3A7CD966499A1"
 			image: "modularrouters:block/modular_router_front_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 5.0d
+			id: "383411E3DA0B035B"
 			image: "modularrouters:item/augment_core"
 			rotation: 0.0d
 			width: 5.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4D8CCA21F0AA6C14"
 			image: "modularrouters:item/upgrade/upgrade_layer1"
 			rotation: 0.0d
 			width: 5.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1BF16FF7C8344FCB"
 			image: "modularrouters:item/upgrade/upgrade_layer0"
 			rotation: 0.0d
 			width: 5.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 8.0d
+			id: "1659195DA84D6077"
 			image: "modularrouters:item/module/module_layer1"
 			rotation: 0.0d
 			width: 8.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 8.0d
+			id: "06BB5BE5995BE033"
 			image: "modularrouters:item/module/module_layer0"
 			rotation: 0.0d
 			width: 8.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7394C151C3B095DD"
 			image: "modularrouters:block/modular_router_front_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "31F554B3DFAC46B1"
 			image: "modularrouters:block/modular_router_front_active"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5D145E7556178CE0"
 			image: "atm:textures/questpics/router/router_title.png"
 			rotation: 0.0d
 			width: 8.130252100840336d
@@ -1149,10 +1158,10 @@
 		}
 		{
 			id: "2BB5769119BA2472"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "3007461CFCC0A013"

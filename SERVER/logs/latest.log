@@ -1,0 +1,334 @@
+[22Oct2026 00:00:27.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mumu[/127.188.72.87:40309] logged in with entity id 254941 at (37.48881084436252, 61.082728952966605, 21.30000001192093)
+[22Oct2026 00:00:27.746] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff sending 2176 recipes in 1548 KB over 3 packets {bartering=3, chest_loot=762, fishing=12, fluid_interaction=119, gifts=22, mob_loot=468, ore=319, plant_drops=344, villager_trade=32, wandering_trade=95}
+[22Oct2026 00:00:27.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu joined the game
+[22Oct2026 00:00:27.944] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[22Oct2026 00:00:27.945] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{mumu} with UUID 6d5922c1-4146-3e92-bccb-dad52580d0f0.
+[22Oct2026 00:00:29.203] [Server thread/INFO] [journeymap/]: JourneyMap client version for mumu: 6.0.9 (server version: 6.0.9)
+[22Oct2026 00:00:29.205] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mumu (20)
+[22Oct2026 00:00:29.206] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mumu
+[22Oct2026 00:00:30.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu drowned
+[22Oct2026 00:00:30.851] [Server thread/INFO] [tombstone/]: The player mumu has successfully been saved
+[22Oct2026 00:02:02.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mumu lost connection: Disconnected
+[22Oct2026 00:02:02.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu left the game
+[22Oct2026 00:02:02.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mumu
+[22Oct2026 00:02:46.121] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:02:46.121] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:02:46.122] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:02:46.125] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 2573MB / Diff: +9MB
+[22Oct2026 00:02:46.126] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:02:46.126] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:02:46.126] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[22Oct2026 00:02:46.127] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:02:46.127] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 38
+[22Oct2026 00:03:01.091] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:fertilizer cache in 37.338177ms. 1 / 1 entries cached.
+[22Oct2026 00:03:01.158] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:pot_interaction cache in 66.77491ms. 6 / 6 entries cached.
+[22Oct2026 00:04:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> dorme ai?
+[22Oct2026 00:04:48.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> pior q n
+[22Oct2026 00:04:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> tou querendo phantom
+[22Oct2026 00:05:36.624] [Netty Epoll Server IO #3/INFO] [potionsmaster/]: DynamicRecipeProvider.location() called
+[22Oct2026 00:05:41.521] [Server thread/INFO] [fastsuite/]: Constructed recipe list for mysticalagriculture:infusion in 255.1 μs. 0/195 recipes are parallelized.
+[22Oct2026 00:05:51.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mumu[/127.188.72.87:35449] logged in with entity id 323278 at (37.48881084436252, 61.082728952966605, 21.30000001192093)
+[22Oct2026 00:05:51.663] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff sending 2176 recipes in 1548 KB over 3 packets {bartering=3, chest_loot=762, fishing=12, fluid_interaction=119, gifts=22, mob_loot=468, ore=319, plant_drops=344, villager_trade=32, wandering_trade=95}
+[22Oct2026 00:05:51.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu joined the game
+[22Oct2026 00:05:51.836] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[22Oct2026 00:05:51.837] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{mumu} with UUID 6d5922c1-4146-3e92-bccb-dad52580d0f0.
+[22Oct2026 00:05:54.375] [Server thread/INFO] [journeymap/]: JourneyMap client version for mumu: 6.0.9 (server version: 6.0.9)
+[22Oct2026 00:05:54.375] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mumu (20)
+[22Oct2026 00:05:54.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mumu
+[22Oct2026 00:07:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Bonk!]
+[22Oct2026 00:08:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> peguei a vsao
+[22Oct2026 00:08:18.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> comando pica
+[22Oct2026 00:08:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> foda
+[22Oct2026 00:08:29.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has reached the goal [Getting That 3x3 Going]
+[22Oct2026 00:10:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Abracadabratchet]
+[22Oct2026 00:12:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Drying like a boss]
+[22Oct2026 00:12:39.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Menril Production]
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 2832MB / Diff: +268MB
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:12:46.276] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[22Oct2026 00:12:46.277] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:12:46.277] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 601
+[22Oct2026 00:13:28.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> alias
+[22Oct2026 00:13:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> vou fechar o server hj as 12:00
+[22Oct2026 00:13:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> ou se tiver ninguem antes
+[22Oct2026 00:13:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> pra eu fzr o backup
+[22Oct2026 00:15:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Item Interfacing]
+[22Oct2026 00:15:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Cables, for logic]
+[22Oct2026 00:16:21.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Variables, For Values]
+[22Oct2026 00:16:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> enzo
+[22Oct2026 00:16:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> tem slime
+[22Oct2026 00:16:48.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> 2
+[22Oct2026 00:16:50.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> ja vejo
+[22Oct2026 00:17:35.939] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/focal_points for level minecraft:the_nether
+[22Oct2026 00:17:35.939] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/focal_points for level minecraft:the_nether finished
+[22Oct2026 00:17:49.478] [Server thread/INFO] [ObserverLib/]: Loading WorldData observerlib/structure_buffer for level minecraft:the_nether
+[22Oct2026 00:17:49.478] [Server thread/INFO] [ObserverLib/]: Loading WorldData observerlib/structure_buffer for level minecraft:the_nether finished
+[22Oct2026 00:19:27.514] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [-640, {minY: 86, maxY: 114}, -96] is occupied by structure minecraft:nether_fossil. Skipping the generation of minecraft:nether_fossil at [-640, {minY: 83, maxY: 112}, -96]
+[22Oct2026 00:19:30.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> alguem tem kelp?
+[22Oct2026 00:19:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> eu n
+[22Oct2026 00:19:49.081] [Worker-Main-5/INFO] [me.kall.overlapless.Overlapless/]: Section at [-672, {minY: 73, maxY: 100}, -128] is occupied by structure minecraft:nether_fossil. Skipping the generation of minecraft:nether_fossil at [-672, {minY: 61, maxY: 91}, -128]
+[22Oct2026 00:20:05.729] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Oct2026 00:20:06.830] [Worker-Main-5/INFO] [me.kall.overlapless.Overlapless/]: Section at [-464, {minY: 59, maxY: 86}, -160] is occupied by structure minecraft:nether_fossil. Skipping the generation of formationsnether:obsidian_pillar at [-464, {minY: 58, maxY: 97}, -160]
+[22Oct2026 00:20:06.832] [Worker-Main-5/INFO] [me.kall.overlapless.Overlapless/]: Section at [-448, {minY: 59, maxY: 86}, -160] is occupied by structure minecraft:nether_fossil. Skipping the generation of minecraft:nether_fossil at [-448, {minY: 55, maxY: 83}, -160]
+[22Oct2026 00:20:11.699] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [-608, {minY: 56, maxY: 82}, -160] is occupied by structure formationsnether:nether_wart_field. Skipping the generation of minecraft:nether_fossil at [-608, {minY: 55, maxY: 83}, -160]
+[22Oct2026 00:20:39.558] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/rock_crystals for level minecraft:overworld
+[22Oct2026 00:20:39.564] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/rock_crystals for level minecraft:overworld finished
+[22Oct2026 00:20:57.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[22Oct2026 00:21:00.457] [Worker-Main-4/INFO] [me.kall.overlapless.Overlapless/]: Section at [20848, {minY: 55, maxY: 55}, -3360] is occupied by structure ae2:meteorite. Skipping the generation of mvs:lil_house at [20848, {minY: 51, maxY: 90}, -3360]
+[22Oct2026 00:21:14.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[22Oct2026 00:21:20.115] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [20832, {minY: 21, maxY: 52}, -2992] is occupied by structure astralsorcery:column. Skipping the generation of ae2:meteorite at [20832, {minY: 37, maxY: 37}, -2992]
+[22Oct2026 00:21:20.534] [Worker-Main-4/INFO] [me.kall.overlapless.Overlapless/]: Section at [20384, {minY: 62, maxY: 88}, -3328] is occupied by structure mvs:haystack. Skipping the generation of astralsorcery:focal_point at [20384, {minY: 71, maxY: 320}, -3328]
+[22Oct2026 00:21:22.125] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [20656, {minY: 36, maxY: 85}, -2976] is occupied by structure structory_towers:ocean_pillar. Skipping the generation of astralsorcery:focal_point at [20656, {minY: 62, maxY: 320}, -2976]
+[22Oct2026 00:21:33.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[22Oct2026 00:21:48.777] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [20704, {minY: 51, maxY: 96}, -2848] is occupied by structure eternal_starlight:portal_ruins_cold. Skipping the generation of astralsorcery:focal_point at [20704, {minY: 62, maxY: 320}, -2848]
+[22Oct2026 00:21:56.481] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [20864, {minY: 62, maxY: 109}, -2816] is occupied by structure illagerwarship:warship. Skipping the generation of minecraft:ocean_ruin_cold at [20864, {minY: 90, maxY: 105}, -2816]
+[22Oct2026 00:21:57.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22Oct2026 00:22:02.494] [Worker-Main-6/INFO] [me.kall.overlapless.Overlapless/]: Section at [20336, {minY: 62, maxY: 320}, -3424] is occupied by structure astralsorcery:focal_point. Skipping the generation of biomeswevegone:village/swamp at [20336, {minY: 50, maxY: 122}, -3424]
+[22Oct2026 00:22:15.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[22Oct2026 00:22:18.959] [Worker-Main-5/INFO] [me.kall.overlapless.Overlapless/]: Section at [20288, {minY: 52, maxY: 78}, -2976] is occupied by structure mvs:horse_campsite. Skipping the generation of repurposed_structures:village_swamp at [20288, {minY: 50, maxY: 108}, -2976]
+[22Oct2026 00:22:22.208] [Worker-Main-4/INFO] [me.kall.overlapless.Overlapless/]: Section at [20512, {minY: 90, maxY: 105}, -2688] is occupied by structure minecraft:ocean_ruin_cold. Skipping the generation of astralsorcery:focal_point at [20512, {minY: 62, maxY: 320}, -2688]
+[22Oct2026 00:22:32.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20615, y=51, z=-2992} BlockPos{x=20616, y=50, z=-2992}
+[22Oct2026 00:22:34.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[22Oct2026 00:22:42.820] [Worker-Main-6/WARN] [lithostitched/]: Couldn't find template pool reference: kaisyn:village/beach_lighthouse/villager_lighthouse_master (Jigsaw block location: 20917, 63, -2664)
+[22Oct2026 00:22:45.924] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:22:45.924] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:22:45.984] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:22:45.984] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:23:08.025] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:23:08.026] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 00:23:08.026] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:23:08.026] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:23:08.026] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3754MB / Diff: +1190MB
+[22Oct2026 00:23:08.026] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:23:08.027] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:23:08.027] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[22Oct2026 00:23:08.027] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:23:08.027] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2891
+[22Oct2026 00:24:07.896] [Server thread/INFO] [net.blay09.mods.balm.common.proxy.ModProxyImpl/]: Mod proxy <unnamed> resolved as net.blay09.mods.balm.neoforge.compat.trinkets.CuriosIntegration@4f08f6ae
+[22Oct2026 00:24:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> ta sem trampo gordao?
+[22Oct2026 00:24:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> ?
+[22Oct2026 00:24:39.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> to trampando na prefeitura
+[22Oct2026 00:24:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> pdp
+[22Oct2026 00:24:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> nql inferno
+[22Oct2026 00:25:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> acho que o inferno é melhor que aquele lugar
+[22Oct2026 00:25:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> ta porra
+[22Oct2026 00:26:16.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Variable Input Transformation]
+[22Oct2026 00:26:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos was doomed to fall by Phantom
+[22Oct2026 00:26:54.191] [Server thread/INFO] [tombstone/]: The player sugurukaos has successfully been saved
+[22Oct2026 00:26:56.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [The Most Useful Key]
+[22Oct2026 00:30:41.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> alguem tem quartz?
+[22Oct2026 00:30:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> tenho
+[22Oct2026 00:30:54.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> quantos?
+[22Oct2026 00:30:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> preciso de um só
+[22Oct2026 00:31:15.252] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Oct2026 00:31:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> to no spawn
+[22Oct2026 00:32:20.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> consegue me trazer?
+[22Oct2026 00:32:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> calmae
+[22Oct2026 00:33:07.788] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:33:07.788] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[22Oct2026 00:33:07.789] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:33:07.789] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:33:07.789] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3243MB / Diff: +679MB
+[22Oct2026 00:33:07.789] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:33:07.790] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:33:07.790] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[22Oct2026 00:33:07.790] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:33:07.790] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 4195
+[22Oct2026 00:33:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> oxi
+[22Oct2026 00:33:20.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> virou o pedrin
+[22Oct2026 00:33:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> vdd
+[22Oct2026 00:33:25.589] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:33:25.589] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:33:25.735] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:33:25.736] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:34:00.048] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:sandpaper_polishing in 180.7 μs. 0/388 recipes are parallelized.
+[22Oct2026 00:37:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Variable Output Transformation]
+[22Oct2026 00:37:27.376] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:deploying in 59.31 μs. 0/167 recipes are parallelized.
+[22Oct2026 00:37:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [Value Displaying]
+[22Oct2026 00:37:52.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Complex Curiosities]
+[22Oct2026 00:38:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [The Brass Age]
+[22Oct2026 00:38:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [The Glass of Illumination]
+[22Oct2026 00:38:46.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [The creation of the Storage Terminal]
+[22Oct2026 00:39:08.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [GUI Simulator 9000]
+[22Oct2026 00:43:07.939] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3379MB / Diff: +815MB
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:43:07.940] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 4260
+[22Oct2026 00:48:13.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> enzo cola aqui no quarto
+[22Oct2026 00:51:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Squeezing like a boss]
+[22Oct2026 00:51:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> alguem tem tinta preta?
+[22Oct2026 00:51:52.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> ru
+[22Oct2026 00:51:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> eu
+[22Oct2026 00:52:04.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> pode passar?
+[22Oct2026 00:52:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> quantas
+[22Oct2026 00:52:25.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> 2
+[22Oct2026 00:52:30.505] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Oct2026 00:52:35.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> pera vou achar
+[22Oct2026 00:52:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> cola spawn
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3466MB / Diff: +902MB
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 00:53:07.825] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 5581
+[22Oct2026 00:53:16.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> vlw
+[22Oct2026 00:53:20.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:53:20.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:53:20.634] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:53:20.634] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 00:53:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Drying like a boss]
+[22Oct2026 00:54:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Menril Production]
+[22Oct2026 00:54:30.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Item Interfacing]
+[22Oct2026 00:54:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Cables, for logic]
+[22Oct2026 00:56:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Mendesite Galore]
+[22Oct2026 00:59:18.994] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Oct2026 01:00:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Variables, For Values]
+[22Oct2026 01:00:28.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Variable Input Transformation]
+[22Oct2026 01:00:49.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Variable Output Transformation]
+[22Oct2026 01:01:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [Value Displaying]
+[22Oct2026 01:01:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [The Discovery of the Scripts]
+[22Oct2026 01:02:30.838] [Worker-Main-5/INFO] [me.kall.overlapless.Overlapless/]: Section at [-208, {minY: 2, maxY: 24}, -400] is occupied by structure repurposed_structures:mineshaft_nether. Skipping the generation of formationsnether:small_lava_arena at [-208, {minY: 19, maxY: 50}, -400]
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3835MB / Diff: +1271MB
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 01:03:08.092] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 6277
+[22Oct2026 01:03:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> alguem tem glowstine
+[22Oct2026 01:03:36.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> stone
+[22Oct2026 01:03:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sugurukaos> eu n
+[22Oct2026 01:03:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [The Glass of Illumination]
+[22Oct2026 01:03:48.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> murilo?
+[22Oct2026 01:04:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> tu tem portal?
+[22Oct2026 01:04:22.063] [Worker-Main-4/INFO] [me.kall.overlapless.Overlapless/]: Section at [0, {minY: 40, maxY: 75}, -480] is occupied by structure repurposed_structures:ruins_nether. Skipping the generation of mns:very_small_nether_brick at [0, {minY: 48, maxY: 76}, -480]
+[22Oct2026 01:04:22.064] [Worker-Main-4/INFO] [me.kall.overlapless.Overlapless/]: Section at [32, {minY: 40, maxY: 75}, -480] is occupied by structure repurposed_structures:ruins_nether. Skipping the generation of mns:leafy_rubble at [32, {minY: 42, maxY: 71}, -480]
+[22Oct2026 01:04:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> enzo
+[22Oct2026 01:04:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> eu tenho a stone
+[22Oct2026 01:04:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> opa
+[22Oct2026 01:04:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> so espera 1 minuto
+[22Oct2026 01:05:19.431] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1122423, l='ServerLevel[world]', x=299.00, y=31.00, z=-253.00] as it would cause deadlock
+[22Oct2026 01:05:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> quantas
+[22Oct2026 01:05:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> 4
+[22Oct2026 01:05:40.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mumu> spawn
+[22Oct2026 01:05:54.642] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Oct2026 01:06:02.558] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 01:06:02.559] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 01:06:04.130] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570054, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 01:06:04.130] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/570055, l='ServerLevel[world]', x=812.74, y=63.33, z=719.66, removed=DISCARDED]
+[22Oct2026 01:06:09.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [The creation of the Storage Terminal]
+[22Oct2026 01:06:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash has made the advancement [GUI Simulator 9000]
+[22Oct2026 01:06:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Hidden in the Depths]
+[22Oct2026 01:07:37.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mumu lost connection: Timed out
+[22Oct2026 01:07:37.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu left the game
+[22Oct2026 01:07:37.992] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mumu
+[22Oct2026 01:08:56.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Tunnel Treasures]
+[22Oct2026 01:08:56.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has completed the challenge [Socialised Loot]
+[22Oct2026 01:08:56.685] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Oct2026 01:11:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Hot Stuff]
+[22Oct2026 01:12:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Cover Me with Diamonds]
+[22Oct2026 01:13:07.906] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 01:13:07.906] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 2
+[22Oct2026 01:13:07.906] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[22Oct2026 01:13:07.906] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 01:13:07.906] [Server thread/INFO] [AllTheLeaks/]: B: 2564MB / C: 3649MB / Diff: +1085MB
+[22Oct2026 01:13:07.907] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 01:13:07.907] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 01:13:07.907] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 5
+[22Oct2026 01:13:07.907] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 01:13:07.907] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 9317
+[22Oct2026 01:13:54.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [The Perfect Foundation]
+[22Oct2026 01:14:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Getting More From Less]
+[22Oct2026 01:19:40.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dotto_of_smash> flw rapaziada
+[22Oct2026 01:19:45.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dotto_of_smash lost connection: Disconnected
+[22Oct2026 01:19:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dotto_of_smash left the game
+[22Oct2026 01:19:45.422] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dotto_of_smash
+[22Oct2026 01:19:45.538] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Oct2026 01:20:36.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sugurukaos lost connection: Disconnected
+[22Oct2026 01:20:36.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos left the game
+[22Oct2026 01:20:36.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sugurukaos
+[22Oct2026 01:20:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Oct2026 01:20:51.921] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[22Oct2026 01:20:51.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Oct2026 01:20:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Oct2026 01:20:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Oct2026 01:20:51.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Oct2026 01:20:52.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[22Oct2026 01:20:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/neovitae:dungeon
+[22Oct2026 01:20:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[22Oct2026 01:20:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[22Oct2026 01:20:52.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[22Oct2026 01:20:52.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[22Oct2026 01:20:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Oct2026 01:20:52.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[22Oct2026 01:20:52.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[22Oct2026 01:20:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[22Oct2026 01:20:52.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[22Oct2026 01:20:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22Oct2026 01:20:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[22Oct2026 01:20:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[22Oct2026 01:20:52.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Oct2026 01:20:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[22Oct2026 01:20:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[22Oct2026 01:20:52.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Oct2026 01:20:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[22Oct2026 01:20:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/eternal_starlight:starlight
+[22Oct2026 01:20:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[22Oct2026 01:20:52.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[22Oct2026 01:20:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[22Oct2026 01:20:52.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22Oct2026 01:20:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[22Oct2026 01:20:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Oct2026 01:20:52.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[22Oct2026 01:20:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[22Oct2026 01:20:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Oct2026 01:20:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[22Oct2026 01:20:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Oct2026 01:20:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[22Oct2026 01:20:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[22Oct2026 01:20:52.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Oct2026 01:20:54.881] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Oct2026 01:20:54.882] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Oct2026 01:20:54.884] [Server thread/INFO] [Framework/]: Finished unloading server configs

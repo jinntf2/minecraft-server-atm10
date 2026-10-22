@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "23487B49F1E0B8E9"
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3BFE00AC5CF786E4"
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6C4775C9FF05A85E"
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3E1B998424CB272D"
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2A3E3E3F214CA084"
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "16F9FE515F01412C"
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "10DA411409FAD61F"
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "299EF7F5B4E0EC4A"
 			image: "powah:item/capacitor_nitro"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75B7BF35818E504D"
 			image: "powah:item/capacitor_spirited"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2559673F371FD941"
 			image: "powah:item/capacitor_niotic"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "77E7366B9ADDD90A"
 			image: "powah:item/capacitor_blazing"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5E8ADEEACAAC656D"
 			image: "powah:item/capacitor_hardened"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "73DD3D4F1A92AB0A"
 			image: "powah:item/capacitor_basic"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2BB4588EC34BF8BB"
 			image: "powah:item/capacitor_basic_tiny"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1350398D6522150A"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 2.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4016E80DE0772245"
 			image: "ftbquests:block/barrier_open"
 			rotation: 0.0d
 			width: 2.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6698BD694E259586"
 			image: "powah:block/nitro_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 3.0d
+			id: "731070E59FA79858"
 			image: "ftbquests:tasks/input_only"
 			rotation: 0.0d
 			width: 3.0d
@@ -156,6 +174,7 @@
 			alpha: 150
 			color: 0
 			height: 10.0d
+			id: "4EA28BDFD67A14ED"
 			image: "ftbquests:textures/shapes/square/outline.png"
 			order: -1
 			rotation: 0.0d
@@ -166,6 +185,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "28EA479E30AEDCFD"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -174,6 +194,7 @@
 		}
 		{
 			height: 0.025d
+			id: "7C0AFD77F83A7F97"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -183,6 +204,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "7E5F1C00B0E3E708"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -192,6 +214,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "3C427C76FE3908E2"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -201,6 +224,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "13653DFDF178D6C8"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -210,6 +234,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "0C5DDE3070AED251"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -219,6 +244,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "1B24D6DA724424B0"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -228,6 +254,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "4356ECE0B75E0678"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -237,6 +264,7 @@
 		{
 			alpha: 200
 			height: 0.1d
+			id: "117595E3966FA803"
 			image: "minecraft:block/black_concrete"
 			rotation: 0.0d
 			width: 22.0d
@@ -245,6 +273,7 @@
 		}
 		{
 			height: 0.9d
+			id: "1327DCF32B46F8D8"
 			image: "atm:textures/questpics/powah/text/storage_text.png"
 			rotation: 0.0d
 			width: 2.3019230769230767d
@@ -253,6 +282,7 @@
 		}
 		{
 			height: 0.8d
+			id: "5F07324F91063918"
 			image: "atm:textures/questpics/powah/text/generation_text.png"
 			rotation: 0.0d
 			width: 3.3600000000000003d
@@ -261,6 +291,7 @@
 		}
 		{
 			height: 0.75d
+			id: "182B3455F1C088FF"
 			image: "atm:textures/questpics/powah/text/useful_items_text.png"
 			rotation: 0.0d
 			width: 3.908823529411765d
@@ -269,6 +300,7 @@
 		}
 		{
 			height: 0.75d
+			id: "0DBDC27FC47C9BB5"
 			image: "atm:textures/questpics/powah/text/transfer_text.png"
 			rotation: 0.0d
 			width: 2.6029411764705883d
@@ -277,6 +309,7 @@
 		}
 		{
 			height: 1.0d
+			id: "04BD312C5714C4F6"
 			image: "powah:block/niotic_crystal_block"
 			rotation: 45.0d
 			width: 1.0d
@@ -285,6 +318,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1B270D74839A6B53"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -293,6 +327,7 @@
 		}
 		{
 			height: 1.0d
+			id: "52FF2F7DA9BAB2C7"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -301,6 +336,7 @@
 		}
 		{
 			height: 1.0d
+			id: "205B80533967FC57"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -309,6 +345,7 @@
 		}
 		{
 			height: 1.0d
+			id: "44315ABFF1576411"
 			image: "powah:item/uraninite_raw"
 			rotation: 0.0d
 			width: 1.0d
@@ -317,6 +354,7 @@
 		}
 		{
 			height: 0.3d
+			id: "4A3F46E4FAE6B270"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -3244,10 +3282,10 @@
 		}
 		{
 			id: "08245411AFDB63DB"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "09C7E50E7E13C53C"

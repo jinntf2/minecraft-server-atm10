@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "12A89BCB3A4306AA"
 			image: "atm:textures/questpics/building_tips/building_building.png"
 			rotation: 0.0d
 			width: 10.025d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "22CF92BA988D1ED1"
 			image: "atm:textures/questpics/building_tips/building_tips.png"
 			rotation: 0.0d
 			width: 4.975d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 6.0d
+			id: "6665D1D13B0F0895"
 			image: "atm:textures/questpics/building_tips/building_ambi.png"
 			rotation: 0.0d
 			width: 11.219868517165814d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 16.0d
+			id: "2D93E1DD6E6641C0"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 12.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 6.0d
+			id: "156666660AA6376F"
 			image: "atm:textures/questpics/building_tips/building_branches.png"
 			rotation: 0.0d
 			width: 10.898770104068118d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 15.0d
+			id: "2CDEFC92C2773F4C"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 12.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5CE3E34FD4CAB8D3"
 			image: "atm:textures/questpics/building_tips/building_title_branches.png"
 			rotation: 0.0d
 			width: 8.275d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6C60F79ACA20E7AF"
 			image: "atm:textures/questpics/building_tips/building_title_ambi.png"
 			rotation: 0.0d
 			width: 4.925d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 6.0d
+			id: "299F368DCECA04F3"
 			image: "atm:textures/questpics/building_tips/building_chaosorder1.png"
 			rotation: 0.0d
 			width: 11.381193124368048d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 6.0d
+			id: "259DA18C2AB3041C"
 			image: "atm:textures/questpics/building_tips/building_chaosorder2.png"
 			rotation: 0.0d
 			width: 11.492871690427698d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 17.0d
+			id: "1450AD7B5E3D189D"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2739B55BDBFB77EC"
 			image: "atm:textures/questpics/building_tips/building_title_chaosorder.png"
 			rotation: 0.0d
 			width: 10.55d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 6.0d
+			id: "55C6EC2122BEEB1D"
 			image: "atm:textures/questpics/building_tips/building_clqies.png"
 			rotation: 0.0d
 			width: 10.675453047775948d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 14.0d
+			id: "4C091DF5595E431F"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7B05C3C3FC4FD843"
 			image: "atm:textures/questpics/building_tips/building_title_clqies.png"
 			rotation: 0.0d
 			width: 4.701030927835052d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 6.0d
+			id: "18A2755B952904A9"
 			image: "atm:textures/questpics/building_tips/building_frankster1.png"
 			rotation: 0.0d
 			width: 10.666666666666666d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 6.0d
+			id: "18AD597E874E4007"
 			image: "atm:textures/questpics/building_tips/building_frankster2.png"
 			rotation: 0.0d
 			width: 10.666666666666666d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 17.0d
+			id: "317226009C3DB9D2"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5792A2D75DBCDE9F"
 			image: "atm:textures/questpics/building_tips/building_title_frankster.png"
 			rotation: 0.0d
 			width: 10.575d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 6.0d
+			id: "1971AC0EC95EB3D4"
 			image: "atm:textures/questpics/building_tips/building_gordon1.png"
 			rotation: 0.0d
 			width: 10.867924528301888d
@@ -171,6 +191,7 @@
 		}
 		{
 			height: 6.0d
+			id: "664F6FF161E0397F"
 			image: "atm:textures/questpics/building_tips/building_gordon2.png"
 			rotation: 0.0d
 			width: 10.867924528301888d
@@ -179,6 +200,7 @@
 		}
 		{
 			height: 17.0d
+			id: "17EE60DD6C8466FD"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3AFDE3E2E2CDF166"
 			image: "atm:textures/questpics/building_tips/building_title_gordon.png"
 			rotation: 0.0d
 			width: 12.825d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 6.0d
+			id: "3774ABA7420ECC32"
 			image: "atm:textures/questpics/building_tips/building_lootz.png"
 			rotation: 0.0d
 			width: 10.851063829787234d
@@ -203,6 +227,7 @@
 		}
 		{
 			height: 14.0d
+			id: "54C3C34812F0EF75"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -211,6 +236,7 @@
 		}
 		{
 			height: 2.0d
+			id: "455938554A0CB2B3"
 			image: "atm:textures/questpics/building_tips/building_title_lootz.png"
 			rotation: 0.0d
 			width: 5.0886075949367084d
@@ -219,6 +245,7 @@
 		}
 		{
 			height: 6.0d
+			id: "5F11B13AAB183CA6"
 			image: "atm:textures/questpics/building_tips/building_porcocrazy.png"
 			rotation: 0.0d
 			width: 14.222222222222221d
@@ -227,6 +254,7 @@
 		}
 		{
 			height: 2.0d
+			id: "148526CBD2F6E984"
 			image: "atm:textures/questpics/building_tips/building_title_porco.png"
 			rotation: 0.0d
 			width: 8.391752577319588d
@@ -235,6 +263,7 @@
 		}
 		{
 			height: 6.0d
+			id: "16281467D0DAB1DE"
 			image: "atm:textures/questpics/building_tips/building_slowmo1.png"
 			rotation: 0.0d
 			width: 14.695402298850574d
@@ -243,6 +272,7 @@
 		}
 		{
 			height: 6.0d
+			id: "475B1E16D0614B66"
 			image: "atm:textures/questpics/building_tips/building_slowmo2.png"
 			rotation: 0.0d
 			width: 14.653295128939828d
@@ -251,6 +281,7 @@
 		}
 		{
 			height: 2.0d
+			id: "10A8DF91FE335443"
 			image: "atm:textures/questpics/building_tips/building_title_slow.png"
 			rotation: 0.0d
 			width: 7.45d
@@ -259,6 +290,7 @@
 		}
 		{
 			height: 8.0d
+			id: "364F52FB38E99CC7"
 			image: "atm:textures/questpics/building_tips/building_spoiler.png"
 			rotation: 0.0d
 			width: 10.323012552301256d
@@ -267,6 +299,7 @@
 		}
 		{
 			height: 2.0d
+			id: "24C7509162974264"
 			image: "atm:textures/questpics/building_tips/building_title_spoiler.png"
 			rotation: 0.0d
 			width: 9.216494845360824d
@@ -275,6 +308,7 @@
 		}
 		{
 			height: 6.0d
+			id: "409BB4F0D1A92368"
 			image: "atm:textures/questpics/building_tips/building_trackerkitsune.png"
 			rotation: 0.0d
 			width: 11.327433628318584d
@@ -283,6 +317,7 @@
 		}
 		{
 			height: 6.0d
+			id: "329E5BBEBB11AD7D"
 			image: "atm:textures/questpics/building_tips/building_trackerkitsune2.png"
 			rotation: 0.0d
 			width: 11.327433628318584d
@@ -291,6 +326,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7845654B857D7466"
 			image: "atm:textures/questpics/building_tips/building_title_tracker.png"
 			rotation: 0.0d
 			width: 12.725d
@@ -299,6 +335,7 @@
 		}
 		{
 			height: 17.0d
+			id: "5344C458A96FCF44"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -307,6 +344,7 @@
 		}
 		{
 			height: 17.0d
+			id: "200F2378B2D40868"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 28.0d
@@ -315,6 +353,7 @@
 		}
 		{
 			height: 11.0d
+			id: "1C993D1A4B00926A"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 19.0d
@@ -323,6 +362,7 @@
 		}
 		{
 			height: 20.0d
+			id: "6C52960DD9714248"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -331,6 +371,7 @@
 		}
 		{
 			height: 6.0d
+			id: "1925325CB97F9B49"
 			image: "atm:textures/questpics/building_tips/building_climowitz1.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -339,6 +380,7 @@
 		}
 		{
 			height: 6.0d
+			id: "7937BD1370EC13F6"
 			image: "atm:textures/questpics/building_tips/building_climowitz2.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -347,6 +389,7 @@
 		}
 		{
 			height: 2.0d
+			id: "759C19397BFBF4AE"
 			image: "atm:textures/questpics/building_tips/building_title_climowitz.png"
 			rotation: 0.0d
 			width: 8.75d
@@ -355,6 +398,7 @@
 		}
 		{
 			height: 6.0d
+			id: "183D744413580982"
 			image: "atm:textures/questpics/building_tips/building_cthonaut.png"
 			rotation: 0.0d
 			width: 10.666666666666666d
@@ -363,6 +407,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3CC158836C4CB1DE"
 			image: "atm:textures/questpics/building_tips/building_title_cthonaut.png"
 			rotation: 0.0d
 			width: 8.375d
@@ -371,6 +416,7 @@
 		}
 		{
 			height: 6.0d
+			id: "30C0FDAC61D7419A"
 			image: "atm:textures/questpics/building_tips/building_peppe.png"
 			rotation: 0.0d
 			width: 10.666666666666666d
@@ -379,6 +425,7 @@
 		}
 		{
 			height: 2.0d
+			id: "75880F6BBBCF52F8"
 			image: "atm:textures/questpics/building_tips/building_title_peppe.png"
 			rotation: 0.0d
 			width: 4.895833333333333d
@@ -387,6 +434,7 @@
 		}
 		{
 			height: 6.0d
+			id: "391834685B891198"
 			image: "atm:textures/questpics/building_tips/building_unka1.png"
 			rotation: 0.0d
 			width: 11.327433628318584d
@@ -395,6 +443,7 @@
 		}
 		{
 			height: 6.0d
+			id: "2C29BB397255E617"
 			image: "atm:textures/questpics/building_tips/building_unka2.png"
 			rotation: 0.0d
 			width: 11.327433628318584d
@@ -403,6 +452,7 @@
 		}
 		{
 			height: 2.0d
+			id: "15C002F182356E77"
 			image: "atm:textures/questpics/building_tips/building_title_unka.png"
 			rotation: 0.0d
 			width: 4.725d
@@ -411,6 +461,7 @@
 		}
 		{
 			height: 6.0d
+			id: "1B5A3BBF2EA2317B"
 			image: "atm:textures/questpics/building_tips/building_wuschelorca1.png"
 			rotation: 0.0d
 			width: 11.367793240556662d
@@ -419,6 +470,7 @@
 		}
 		{
 			height: 6.0d
+			id: "1055D7F309CB6771"
 			image: "atm:textures/questpics/building_tips/building_wuschelorca2.png"
 			rotation: 0.0d
 			width: 11.419161676646706d
@@ -427,6 +479,7 @@
 		}
 		{
 			height: 6.0d
+			id: "05DFDDF5BC59DF49"
 			image: "atm:textures/questpics/building_tips/building_zahorizon.png"
 			rotation: 0.0d
 			width: 10.670991658943466d
@@ -435,6 +488,7 @@
 		}
 		{
 			height: 2.0d
+			id: "28008E603DED7224"
 			image: "atm:textures/questpics/building_tips/building_title_zahorizon.png"
 			rotation: 0.0d
 			width: 8.925d
@@ -443,6 +497,7 @@
 		}
 		{
 			height: 17.0d
+			id: "05FDB300E0388F65"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 22.0d
@@ -451,6 +506,7 @@
 		}
 		{
 			height: 17.0d
+			id: "4DEFCB418B5A7306"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -459,6 +515,7 @@
 		}
 		{
 			height: 14.0d
+			id: "27732F1699E5679F"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -467,6 +524,7 @@
 		}
 		{
 			height: 14.0d
+			id: "2779305D728F268A"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -475,6 +533,7 @@
 		}
 		{
 			height: 14.0d
+			id: "452E0B2CFFE1A00D"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 11.0d
@@ -483,6 +542,7 @@
 		}
 		{
 			height: 15.0d
+			id: "6C8ADE13EBE6C5E5"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -491,6 +551,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0B2D10C7FEFC11BE"
 			image: "atm:textures/questpics/building_tips/building_title_beelumpi.png"
 			rotation: 0.0d
 			width: 7.130434782608695d
@@ -499,6 +560,7 @@
 		}
 		{
 			height: 8.0d
+			id: "49E3293565E00EB8"
 			image: "atm:textures/questpics/building_tips/building_bloke1.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -507,6 +569,7 @@
 		}
 		{
 			height: 8.0d
+			id: "6C5487F66AC73945"
 			image: "atm:textures/questpics/building_tips/building_bloke2.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -515,6 +578,7 @@
 		}
 		{
 			height: 21.0d
+			id: "0CED33F1A88DC652"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 28.0d
@@ -523,6 +587,7 @@
 		}
 		{
 			height: 8.0d
+			id: "41F08214ADEBF942"
 			image: "atm:textures/questpics/building_tips/building_breadzaa1.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -531,6 +596,7 @@
 		}
 		{
 			height: 8.0d
+			id: "20B6BD4FC23123CF"
 			image: "atm:textures/questpics/building_tips/building_charas1.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -539,6 +605,7 @@
 		}
 		{
 			height: 10.0d
+			id: "3E1BE013B4912711"
 			image: "atm:textures/questpics/building_tips/building_kupnu1.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -547,6 +614,7 @@
 		}
 		{
 			height: 10.0d
+			id: "41F1AAC888DEA167"
 			image: "atm:textures/questpics/building_tips/building_lonerstar1.png"
 			rotation: 0.0d
 			width: 16.0d
@@ -555,6 +623,7 @@
 		}
 		{
 			height: 8.0d
+			id: "0C86103BDCAD10B0"
 			image: "atm:textures/questpics/building_tips/building_stecy1.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -563,6 +632,7 @@
 		}
 		{
 			height: 8.0d
+			id: "7179B876C124E136"
 			image: "atm:textures/questpics/building_tips/building_stecy2.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -571,6 +641,7 @@
 		}
 		{
 			height: 7.0d
+			id: "7CF80E83FA9CE185"
 			image: "atm:textures/questpics/building_tips/building_vivavii1.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -579,6 +650,7 @@
 		}
 		{
 			height: 7.0d
+			id: "46D219840BA3C611"
 			image: "atm:textures/questpics/building_tips/building_vivavii2.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -587,6 +659,7 @@
 		}
 		{
 			height: 7.0d
+			id: "03BC2ADBC0BBB36B"
 			image: "atm:textures/questpics/building_tips/building_quantum1.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -595,6 +668,7 @@
 		}
 		{
 			height: 7.0d
+			id: "674693AD00082C9A"
 			image: "atm:textures/questpics/building_tips/building_quantum2.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -603,6 +677,7 @@
 		}
 		{
 			height: 10.0d
+			id: "5062E8CE125D2A1B"
 			image: "atm:textures/questpics/building_tips/building_mindful.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -611,6 +686,7 @@
 		}
 		{
 			height: 17.0d
+			id: "3FD6D22CBED8548D"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -619,6 +695,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6AD7ECAF4547E1CB"
 			image: "atm:textures/questpics/building_tips/building_title_vivavii.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -627,6 +704,7 @@
 		}
 		{
 			height: 17.0d
+			id: "309B8783AEC89374"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -635,6 +713,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2A63FA246364ADE3"
 			image: "atm:textures/questpics/building_tips/building_title_quantum.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -643,6 +722,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4E52E7821499E69C"
 			image: "atm:textures/questpics/building_tips/building_title_bloke.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -651,6 +731,7 @@
 		}
 		{
 			height: 21.0d
+			id: "040FC7C3BE0D7D0A"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 28.0d
@@ -659,6 +740,7 @@
 		}
 		{
 			height: 2.0d
+			id: "58BA90ACE62BA5D0"
 			image: "atm:textures/questpics/building_tips/building_title_stecy.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -667,6 +749,7 @@
 		}
 		{
 			height: 26.0d
+			id: "1968110E0F0ED789"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 16.0d
@@ -675,6 +758,7 @@
 		}
 		{
 			height: 2.0d
+			id: "59A23FF8DD647C05"
 			image: "atm:textures/questpics/building_tips/building_title_mindful.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -683,6 +767,7 @@
 		}
 		{
 			height: 19.0d
+			id: "47C71226ED50CE08"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 13.0d
@@ -691,6 +776,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4C39AF1353CF4B0E"
 			image: "atm:textures/questpics/building_tips/building_title_breadzaa.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -699,6 +785,7 @@
 		}
 		{
 			height: 13.0d
+			id: "51DAFF9EE46DD680"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 30.0d
@@ -707,6 +794,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6DD441BB6049E115"
 			image: "atm:textures/questpics/building_tips/building_title_kupnu4.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -715,6 +803,7 @@
 		}
 		{
 			height: 13.0d
+			id: "53BD0EBA6A611642"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 0.0d
 			width: 30.0d
@@ -723,6 +812,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0AC6DC1BC1F9E35E"
 			image: "atm:textures/questpics/building_tips/building_title_lonerstar.png"
 			rotation: 0.0d
 			width: 22.0d
@@ -731,6 +821,7 @@
 		}
 		{
 			height: 2.0d
+			id: "32814FD637D30A30"
 			image: "atm:textures/questpics/building_tips/building_title_charas.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -739,6 +830,7 @@
 		}
 		{
 			height: 19.0d
+			id: "64FE8FE94EB1AD9E"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 13.0d
@@ -1645,7 +1737,7 @@
 		{
 			dependencies: ["3ED8365BAD406CC5"]
 			icon: {
-				id: "farmersdelight:basket"
+				id: "farmersdelight:bamboo_basket"
 			}
 			id: "5D5563142917495A"
 			rewards: [
@@ -2617,7 +2709,7 @@
 			}]
 			tasks: [{
 				id: "6AA15FFFC5961428"
-				item: { components: { "relics:data": { abilities: { abilities: { claws: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { amount: { initialValue: 0.20861d } } }, fast_mining: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { modifier: { initialValue: 0.32347d } } }, passive: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "artifacts:digging_claws" }
+				item: { components: { "relics:data": { abilities: { abilities: { digging: { lock: { breaks: 5 }, points: 0, stats: { bare_hands_speed: { initialQuality: 10 }, momentum_per_block: { initialQuality: 10 }, momentum_window: { initialQuality: 9 }, speed: { initialQuality: 8 } } } }, synergies: { } }, leveling: { }, statistic: { } } }, count: 1, id: "artifacts:digging_claws" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -2657,10 +2749,10 @@
 		}
 		{
 			id: "01516BC726013B7C"
-			tags: ["arr"]
 			invisible: true
 			optional: true
 			shape: "circle"
+			tags: ["arr"]
 			tasks: [
 				{
 					id: "6AA335ED81844F9F"
@@ -3049,7 +3141,7 @@
 					id: "0BAA616086292311"
 					item: {
 						count: 1
-						id: "eternal_starlight:swamp_silver_ingot"
+						id: "eternal_starlight:deepsilver_ingot"
 					}
 					type: "item"
 				}
@@ -3121,7 +3213,7 @@
 					id: "0373862509ECD6E7"
 					item: {
 						count: 1
-						id: "eternal_starlight:starlight_mangrove_sapling"
+						id: "eternal_starlight:banyin_sapling"
 					}
 					type: "item"
 				}
