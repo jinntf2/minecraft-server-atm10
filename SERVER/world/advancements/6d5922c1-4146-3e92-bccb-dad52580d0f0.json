@@ -311,6 +311,7 @@
       "minecraft:deep_dark": "2026-10-18 22:27:34 +0000",
       "minecraft:ocean": "2026-10-18 17:20:18 +0000",
       "minecraft:meadow": "2026-10-18 23:00:38 +0000",
+      "minecraft:birch_forest": "2026-10-22 22:21:50 +0000",
       "minecraft:snowy_beach": "2026-10-18 07:40:40 +0000",
       "minecraft:savanna": "2026-10-18 17:54:34 +0000",
       "minecraft:plains": "2026-10-18 17:52:46 +0000"
@@ -427,6 +428,7 @@
       "biomeswevegone:araucaria_savanna": "2026-10-18 17:39:14 +0000",
       "biomeswevegone:frosted_taiga": "2026-10-18 05:25:45 +0000",
       "biomeswevegone:maple_taiga": "2026-10-18 06:42:20 +0000",
+      "biomeswevegone:amaranth_grassland": "2026-10-22 22:32:19 +0000",
       "biomeswevegone:prairie": "2026-10-18 17:24:02 +0000",
       "biomeswevegone:baobab_savanna": "2026-10-18 17:53:07 +0000",
       "biomeswevegone:allium_shrubland": "2026-10-18 17:21:19 +0000",
@@ -1992,6 +1994,79 @@
   "integratedterminals:storage_terminal/gui_storage_terminal": {
     "criteria": {
       "criteria_0": "2026-10-22 00:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-10-22 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-10-22 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2026-10-22 22:40:28 +0000",
+      "minecraft:sheep": "2026-10-22 22:35:57 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_tag_c_dyes_brown_1": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_tag_c_dyes_white_1": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2026-10-22 22:37:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sugar_cube": {
+    "criteria": {
+      "has_item_minecraft_sugar_1": "2026-10-22 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-10-22 22:19:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-10-22 22:19:01 +0000"
     },
     "done": true
   },

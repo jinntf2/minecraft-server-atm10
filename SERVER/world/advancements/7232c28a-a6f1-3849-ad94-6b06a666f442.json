@@ -863,14 +863,17 @@
       "minecraft:pillager": "2026-10-19 02:17:33 +0000",
       "minecraft:skeleton": "2026-10-18 04:40:11 +0000",
       "minecraft:zombified_piglin": "2026-10-19 03:02:11 +0000",
+      "minecraft:witch": "2026-10-18 18:22:29 +0000",
+      "minecraft:bogged": "2026-10-19 16:02:53 +0000",
+      "minecraft:cave_spider": "2026-10-22 23:36:04 +0000",
       "minecraft:silverfish": "2026-10-18 04:56:46 +0000",
       "minecraft:stray": "2026-10-18 05:16:55 +0000",
-      "minecraft:witch": "2026-10-18 18:22:29 +0000",
+      "minecraft:enderman": "2026-10-22 23:31:17 +0000",
       "minecraft:spider": "2026-10-18 18:16:00 +0000",
       "minecraft:zombie": "2026-10-18 22:10:14 +0000",
       "minecraft:creeper": "2026-10-19 00:51:58 +0000",
       "minecraft:zombie_villager": "2026-10-18 05:15:30 +0000",
-      "minecraft:bogged": "2026-10-19 16:02:53 +0000"
+      "minecraft:slime": "2026-10-22 23:33:01 +0000"
     },
     "done": false
   },
@@ -1841,6 +1844,30 @@
   "supplementaries:recipe/netherite_door": {
     "criteria": {
       "has_item_minecraft_netherite_scrap_2": "2026-10-22 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2026-10-22 23:32:06 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2026-10-22 23:33:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2026-10-22 23:33:47 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-10-22 23:32:08 +0000"
     },
     "done": true
   },

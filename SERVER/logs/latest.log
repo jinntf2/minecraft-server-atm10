@@ -18464,3 +18464,126 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [22Oct2026 22:07:13.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sugurukaos lost connection: Disconnected
 [22Oct2026 22:07:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos left the game
 [22Oct2026 22:07:13.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sugurukaos
+[22Oct2026 22:12:34.114] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2440MB / Diff: +84MB
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 22:12:34.123] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 462
+[22Oct2026 22:12:34.124] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 22:12:34.124] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 22:15:57.084] [Server thread/INFO] [net.blay09.mods.balm.common.proxy.ModProxyImpl/]: Mod proxy <unnamed> resolved as net.blay09.mods.balm.neoforge.compat.trinkets.CuriosIntegration@1de34ccf
+[22Oct2026 22:19:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has completed the challenge [With Our Powers Combined!]
+[22Oct2026 22:21:40.047] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/rock_crystals for level minecraft:overworld
+[22Oct2026 22:21:40.069] [Server thread/INFO] [ObserverLib/]: Loading WorldData astralsorcery/rock_crystals for level minecraft:overworld finished
+[22Oct2026 22:22:34.133] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2893MB / Diff: +537MB
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 22:22:34.134] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 122
+[22Oct2026 22:24:32.658] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:fertilizer cache in 40.338753ms. 1 / 1 entries cached.
+[22Oct2026 22:24:32.692] [Server thread/INFO] [BotanyPots/]: Built Server botanypots:pot_interaction cache in 34.072952ms. 6 / 6 entries cached.
+[22Oct2026 22:26:54.138] [Server thread/INFO] [com.breakinblocks.auroral.Auroral/]: Aurora started! Duration: 10000 ticks (500 seconds)
+[22Oct2026 22:28:45.688] [Server thread/INFO] [com.breakinblocks.auroral.Auroral/]: Aurora ended.
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 2990MB / Diff: +634MB
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 22:32:34.237] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 700
+[22Oct2026 22:35:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu has made the advancement [The Parrots and the Bats]
+[22Oct2026 22:42:34.136] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3399MB / Diff: +1043MB
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 22:42:34.137] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2951
+[22Oct2026 22:52:34.187] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3090MB / Diff: +734MB
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 22:52:34.188] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 4204
+[22Oct2026 22:59:37.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mumu was slain by Koboleton
+[22Oct2026 22:59:37.045] [Server thread/INFO] [tombstone/]: The player mumu has successfully been saved
+[22Oct2026 23:02:34.239] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3341MB / Diff: +985MB
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 6322
+[22Oct2026 23:02:34.240] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:02:34.242] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 23:11:55.350] [Netty Epoll Server IO #5/INFO] [potionsmaster/]: DynamicRecipeProvider.location() called
+[22Oct2026 23:12:16.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sugurukaos[/127.144.22.58:37589] logged in with entity id 485649 at (641.7734886328118, 68.0, 8.70021972573782)
+[22Oct2026 23:12:16.679] [Server thread/INFO] [cy.jdkdigital.jeistuff.JeiStuff/]: JEIStuff sending 2184 recipes in 1555 KB over 3 packets {bartering=3, chest_loot=766, fishing=12, fluid_interaction=119, gifts=22, mob_loot=468, ore=319, plant_drops=344, villager_trade=32, wandering_trade=99}
+[22Oct2026 23:12:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos joined the game
+[22Oct2026 23:12:17.194] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[22Oct2026 23:12:17.210] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{sugurukaos} with UUID 7232c28a-a6f1-3849-ad94-6b06a666f442.
+[22Oct2026 23:12:18.858] [Server thread/INFO] [journeymap/]: JourneyMap client version for sugurukaos: 6.0.9 (server version: 6.0.9)
+[22Oct2026 23:12:18.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sugurukaos (20)
+[22Oct2026 23:12:18.860] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sugurukaos
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3675MB / Diff: +1319MB
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 8426
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:12:34.295] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 23:22:01.288] [Server thread/INFO] [fastsuite/]: Constructed recipe list for mysticalagriculture:infusion in 305.7 μs. 0/195 recipes are parallelized.
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3748MB / Diff: +1392MB
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 8426
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:22:34.345] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 23:30:35.989] [Server thread/INFO] [com.breakinblocks.auroral.Auroral/]: Aurora started! Duration: 6980 ticks (349 seconds)
+[22Oct2026 23:32:06.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Chest Slayer]
+[22Oct2026 23:32:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Amateur Archaeologist]
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3154MB / Diff: +798MB
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 9
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:32:34.410] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 23:33:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sugurukaos has made the advancement [Quite the Renovation]
+[22Oct2026 23:36:24.990] [Server thread/INFO] [com.breakinblocks.auroral.Auroral/]: Aurora ended.
+[22Oct2026 23:42:34.450] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:42:34.451] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:42:34.451] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:42:34.451] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:42:34.452] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3451MB / Diff: +1095MB
+[22Oct2026 23:42:34.453] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:42:34.453] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:42:34.453] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 642
+[22Oct2026 23:42:34.453] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:42:34.454] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[22Oct2026 23:52:34.485] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: B: 2356MB / C: 3493MB / Diff: +1137MB
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 667
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[22Oct2026 23:52:34.486] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
