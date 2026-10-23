@@ -3,12 +3,13 @@
 	type: "party"
 	owner: "6ccc8bdb-b3b3-3f54-a233-fc15ea97f99f"
 	ranks: {
+		c363fdeb-fdbd-38d9-84a7-7c5910c17bf0: "member"
 		6ccc8bdb-b3b3-3f54-a233-fc15ea97f99f: "owner"
 	}
 	properties: {
 		"ftbteams:display_name": "os pikas"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF5963"
+		"ftbteams:color": "#AA00AA"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbteams:team_stages": [ ]
@@ -26,6 +27,10 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1792430037062L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Dotto_of_smash\"],\"color\":\"yellow\"}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792430037062L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Dotto_of_smash\"],\"color\":\"yellow\"}" }
+		{ from: "6ccc8bdb-b3b3-3f54-a233-fc15ea97f99f", date: 1792715519380L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Rysumo\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1792715522340L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Rysumo\"],\"color\":\"green\"}" }
+	]
 	extra: { }
 }

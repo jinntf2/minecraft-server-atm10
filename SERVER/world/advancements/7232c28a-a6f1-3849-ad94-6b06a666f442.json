@@ -222,6 +222,7 @@
       "cold_river": "2026-10-19 17:24:03 +0000",
       "cold_deciduous_forest": "2026-10-18 05:33:25 +0000",
       "boreal_forest": "2026-10-19 17:25:26 +0000",
+      "glistering_meadow": "2026-10-23 00:44:35 +0000",
       "blackwood_taiga": "2026-10-19 16:02:02 +0000",
       "mycotoxic_undergrowth": "2026-10-18 06:29:21 +0000",
       "blackstone_basin": "2026-10-18 06:29:29 +0000",
@@ -232,6 +233,7 @@
       "golden_boreal_taiga": "2026-10-18 18:07:45 +0000",
       "icy_heights": "2026-10-18 18:05:36 +0000",
       "prismachasm": "2026-10-19 01:54:41 +0000",
+      "infernal_holt": "2026-10-23 00:44:32 +0000",
       "cold_boreal_taiga": "2026-10-18 04:25:36 +0000",
       "bioshroom_caves": "2026-10-19 16:03:38 +0000"
     },
@@ -866,10 +868,12 @@
       "minecraft:witch": "2026-10-18 18:22:29 +0000",
       "minecraft:bogged": "2026-10-19 16:02:53 +0000",
       "minecraft:cave_spider": "2026-10-22 23:36:04 +0000",
+      "minecraft:piglin": "2026-10-23 02:01:51 +0000",
       "minecraft:silverfish": "2026-10-18 04:56:46 +0000",
       "minecraft:stray": "2026-10-18 05:16:55 +0000",
       "minecraft:enderman": "2026-10-22 23:31:17 +0000",
       "minecraft:spider": "2026-10-18 18:16:00 +0000",
+      "minecraft:piglin_brute": "2026-10-23 02:12:28 +0000",
       "minecraft:zombie": "2026-10-18 22:10:14 +0000",
       "minecraft:creeper": "2026-10-19 00:51:58 +0000",
       "minecraft:zombie_villager": "2026-10-18 05:15:30 +0000",
@@ -1355,7 +1359,9 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2026-10-18 06:29:21 +0000",
-      "blackstone_basin": "2026-10-18 06:29:29 +0000"
+      "blackstone_basin": "2026-10-18 06:29:29 +0000",
+      "infernal_holt": "2026-10-23 00:44:32 +0000",
+      "glistering_meadow": "2026-10-23 00:44:35 +0000"
     },
     "done": false
   },
@@ -1397,7 +1403,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2026-10-18 06:32:10 +0000"
+      "minecraft:nether_wastes": "2026-10-18 06:32:10 +0000",
+      "minecraft:basalt_deltas": "2026-10-23 00:44:41 +0000"
     },
     "done": false
   },
@@ -1853,6 +1860,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-10-22 23:32:08 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2026-10-22 23:33:47 +0000"
@@ -1865,9 +1878,232 @@
     },
     "done": false
   },
-  "artifacts:amateur_archaeologist": {
+  "actuallyadditions:craft_reconstructor": {
     "criteria": {
-      "find_artifact": "2026-10-22 23:32:08 +0000"
+      "atomic_reconstructor": "2026-10-23 00:38:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_green": {
+    "criteria": {
+      "has_tag_c_dyes_green_2": "2026-10-23 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "has_tag_c_dyes_green_1": "2026-10-23 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_green": {
+    "criteria": {
+      "has_tag_c_dyes_green_2": "2026-10-23 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-10-23 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "has_tag_c_dyes_white_1": "2026-10-23 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_white": {
+    "criteria": {
+      "has_tag_c_dyes_white_2": "2026-10-23 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2026-10-23 00:53:53 +0000",
+      "fluffy_seeds": "2026-10-23 00:52:42 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "has_tag_c_dyes_purple_1": "2026-10-23 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-10-23 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_purple": {
+    "criteria": {
+      "has_tag_c_dyes_purple_2": "2026-10-23 00:53:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2026-10-23 00:54:02 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/buntings/bunting_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-10-23 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-10-23 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_tag_c_dyes_black_1": "2026-10-23 00:54:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_yellow": {
+    "criteria": {
+      "has_tag_c_dyes_yellow_2": "2026-10-23 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "has_tag_c_dyes_yellow_1": "2026-10-23 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_yellow": {
+    "criteria": {
+      "has_tag_c_dyes_yellow_2": "2026-10-23 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "has_tag_c_dyes_blue_1": "2026-10-23 00:56:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-10-23 00:56:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_blue": {
+    "criteria": {
+      "has_tag_c_dyes_blue_2": "2026-10-23 00:56:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-10-23 00:58:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_orange": {
+    "criteria": {
+      "has_tag_c_dyes_orange_2": "2026-10-23 00:58:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "has_tag_c_dyes_orange_1": "2026-10-23 00:58:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-10-23 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_lime_dye": {
+    "criteria": {
+      "has_tag_c_dyes_lime_1": "2026-10-23 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_lime": {
+    "criteria": {
+      "has_tag_c_dyes_lime_2": "2026-10-23 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_pink": {
+    "criteria": {
+      "has_tag_c_dyes_pink_2": "2026-10-23 00:58:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_pink": {
+    "criteria": {
+      "has_tag_c_dyes_pink_2": "2026-10-23 00:58:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_pink_dye": {
+    "criteria": {
+      "has_tag_c_dyes_pink_1": "2026-10-23 00:58:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_cyan": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_2": "2026-10-23 00:58:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_cyan": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_2": "2026-10-23 00:58:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "has_tag_c_dyes_cyan_1": "2026-10-23 00:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-10-23 02:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-10-23 02:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-10-23 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-10-23 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-10-23 01:59:22 +0000"
     },
     "done": true
   },

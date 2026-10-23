@@ -1494,111 +1494,21 @@
     },
     "done": true
   },
+  "tombstone:event/root": {
+    "criteria": {
+      "halloween": "2026-10-21 23:33:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/halloween": {
+    "criteria": {
+      "coded_trigger": "2026-10-21 23:33:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/sconce_soul": {
     "criteria": {
       "has_tag_c_nuggets_iron_2": "2026-10-21 23:40:45 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/menril_production": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:54:20 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/drying": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:53:34 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2026-10-21 23:53:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/buntings/bunting_black": {
-    "criteria": {
-      "has_tag_c_dyes_black_2": "2026-10-22 00:53:23 +0000"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2026-10-21 23:55:45 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:08:40 +0000"
-    },
-    "done": true
-  },
-  "integratedtunnels:interfaces/interface_item": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:54:30 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2026-10-21 23:57:32 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:network_foundations/variable_input": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:00:28 +0000"
-    },
-    "done": true
-  },
-  "create:chute": {
-    "criteria": {
-      "0": "2026-10-22 00:35:12 +0000"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2026-10-22 00:38:09 +0000"
-    },
-    "done": true
-  },
-  "integratedterminals:root": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:01:15 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2026-10-22 00:10:39 +0000"
-    },
-    "done": false
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2026-10-22 00:16:34 +0000"
-    },
-    "done": true
-  },
-  "integratedscripting:basics/mendesite": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:56:43 +0000"
-    },
-    "done": true
-  },
-  "create:funnel": {
-    "criteria": {
-      "0": "2026-10-22 00:35:12 +0000"
-    },
-    "done": true
-  },
-  "create:rose_quartz": {
-    "criteria": {
-      "0": "2026-10-22 00:34:01 +0000"
     },
     "done": true
   },
@@ -1608,9 +1518,111 @@
     },
     "done": true
   },
+  "supplementaries:recipe/lapis_bricks": {
+    "criteria": {
+      "has_item_minecraft_lapis_lazuli_1": "2026-10-21 23:46:55 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-10-21 23:53:33 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-10-21 23:55:45 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-10-21 23:57:32 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-10-22 00:07:47 +0000"
+    },
+    "done": true
+  },
   "modern_industrialization:steam_mining_drill": {
     "criteria": {
       "checkInv": "2026-10-22 00:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-10-22 00:10:39 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:runic_spanner": {
+    "criteria": {
+      "has_runic_spanner": "2026-10-22 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-10-22 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2026-10-22 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2026-10-22 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-10-22 00:34:01 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2026-10-22 00:35:12 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2026-10-22 00:35:12 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2026-10-22 00:35:12 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-10-22 00:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-10-22 00:37:52 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-10-22 00:38:09 +0000"
     },
     "done": true
   },
@@ -1620,9 +1632,57 @@
     },
     "done": true
   },
-  "integrateddynamics:network_foundations/variable_output": {
+  "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
-      "criteria_0": "2026-10-22 01:00:49 +0000"
+      "criteria_0": "2026-10-22 00:51:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-10-22 00:53:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_black": {
+    "criteria": {
+      "has_tag_c_dyes_black_2": "2026-10-22 00:53:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "has_tag_c_dyes_black_1": "2026-10-22 00:53:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "integratedtunnels:interfaces/interface_item": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:54:30 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "integratedscripting:basics/mendesite": {
+    "criteria": {
+      "criteria_0": "2026-10-22 00:56:43 +0000"
     },
     "done": true
   },
@@ -1638,87 +1698,33 @@
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/squeezing": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:51:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:event/root": {
-    "criteria": {
-      "halloween": "2026-10-21 23:33:22 +0000"
-    },
-    "done": true
-  },
-  "integratedterminals:storage_terminal/craft_storage_terminal": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:06:09 +0000"
-    },
-    "done": true
-  },
-  "integratedscripting:terminal/open": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:01:34 +0000"
-    },
-    "done": true
-  },
   "integrateddynamics:network_foundations/variables": {
     "criteria": {
       "criteria_0": "2026-10-22 01:00:25 +0000"
     },
     "done": true
   },
-  "integratedterminals:storage_terminal/gui_storage_terminal": {
+  "integratedtunnels:root": {
     "criteria": {
-      "criteria_0": "2026-10-22 01:06:18 +0000"
+      "criteria_0": "2026-10-22 01:00:25 +0000"
     },
     "done": true
   },
-  "create:deployer": {
+  "integrateddynamics:network_foundations/variable_input": {
     "criteria": {
-      "0": "2026-10-22 00:36:14 +0000"
+      "criteria_0": "2026-10-22 01:00:28 +0000"
     },
     "done": true
   },
-  "integratedterminals:storage_terminal/menril_glass": {
+  "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
-      "criteria_0": "2026-10-22 01:03:43 +0000"
+      "criteria_0": "2026-10-22 01:00:49 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/awnings/awning_black": {
+  "integratedterminals:root": {
     "criteria": {
-      "has_tag_c_dyes_black_2": "2026-10-22 00:53:23 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/lapis_bricks": {
-    "criteria": {
-      "has_item_minecraft_lapis_lazuli_1": "2026-10-21 23:46:55 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2026-10-22 00:07:47 +0000"
-    },
-    "done": true
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2026-10-22 00:16:42 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:network_foundations/cables_logic": {
-    "criteria": {
-      "criteria_0": "2026-10-22 00:54:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:event/halloween": {
-    "criteria": {
-      "coded_trigger": "2026-10-21 23:33:22 +0000"
+      "criteria_0": "2026-10-22 01:01:15 +0000"
     },
     "done": true
   },
@@ -1728,39 +1734,33 @@
     },
     "done": true
   },
-  "ars_nouveau:runic_spanner": {
+  "integratedscripting:terminal/open": {
     "criteria": {
-      "has_runic_spanner": "2026-10-22 00:10:39 +0000"
+      "criteria_0": "2026-10-22 01:01:34 +0000"
     },
     "done": true
   },
-  "create:portable_storage_interface": {
+  "integratedterminals:storage_terminal/menril_glass": {
     "criteria": {
-      "0": "2026-10-22 00:35:12 +0000"
+      "criteria_0": "2026-10-22 01:03:43 +0000"
     },
     "done": true
   },
-  "supplementaries:recipe/candle_holders/candle_holder_black_dye": {
+  "integratedterminals:storage_terminal/craft_storage_terminal": {
     "criteria": {
-      "has_tag_c_dyes_black_1": "2026-10-22 00:53:23 +0000"
+      "criteria_0": "2026-10-22 01:06:09 +0000"
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
     "criteria": {
-      "0": "2026-10-22 00:37:52 +0000"
+      "criteria_0": "2026-10-22 01:06:18 +0000"
     },
     "done": true
   },
-  "create:shifting_gears": {
+  "evilcraft:root": {
     "criteria": {
-      "0": "2026-10-22 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "integratedtunnels:root": {
-    "criteria": {
-      "criteria_0": "2026-10-22 01:00:25 +0000"
+      "criteria_0": "2026-10-22 01:08:40 +0000"
     },
     "done": true
   },
