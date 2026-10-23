@@ -221,6 +221,7 @@
       "frozen_tundra": "2026-10-18 05:33:22 +0000",
       "cold_river": "2026-10-19 17:24:03 +0000",
       "cold_deciduous_forest": "2026-10-18 05:33:25 +0000",
+      "redstone_abyss": "2026-10-23 22:19:11 +0000",
       "boreal_forest": "2026-10-19 17:25:26 +0000",
       "glistering_meadow": "2026-10-23 00:44:35 +0000",
       "blackwood_taiga": "2026-10-19 16:02:02 +0000",
@@ -278,7 +279,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-10-19 17:26:25 +0000",
+      "minecraft:savanna_plateau": "2026-10-23 23:03:05 +0000",
       "minecraft:old_growth_pine_taiga": "2026-10-18 18:08:23 +0000",
+      "minecraft:stony_peaks": "2026-10-23 23:03:15 +0000",
       "minecraft:river": "2026-10-18 05:53:31 +0000",
       "minecraft:stony_shore": "2026-10-18 05:25:45 +0000",
       "minecraft:snowy_plains": "2026-10-18 06:03:07 +0000",
@@ -863,6 +866,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-10-19 02:17:33 +0000",
+      "minecraft:blaze": "2026-10-23 22:47:06 +0000",
       "minecraft:skeleton": "2026-10-18 04:40:11 +0000",
       "minecraft:zombified_piglin": "2026-10-19 03:02:11 +0000",
       "minecraft:witch": "2026-10-18 18:22:29 +0000",
@@ -1361,9 +1365,10 @@
       "mycotoxic_undergrowth": "2026-10-18 06:29:21 +0000",
       "blackstone_basin": "2026-10-18 06:29:29 +0000",
       "infernal_holt": "2026-10-23 00:44:32 +0000",
+      "redstone_abyss": "2026-10-23 22:19:11 +0000",
       "glistering_meadow": "2026-10-23 00:44:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipe/blackboard": {
     "criteria": {
@@ -1403,7 +1408,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-10-23 22:17:52 +0000",
       "minecraft:nether_wastes": "2026-10-18 06:32:10 +0000",
+      "minecraft:soul_sand_valley": "2026-10-23 22:40:04 +0000",
       "minecraft:basalt_deltas": "2026-10-23 00:44:41 +0000"
     },
     "done": false
@@ -2104,6 +2111,72 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2026-10-23 02:17:22 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2026-10-23 22:37:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-10-23 22:48:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/eat_lollipop": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 22:49:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2026-10-23 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2026-10-23 22:51:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2026-10-23 22:15:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/awnings/awning_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-10-23 22:33:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown_dye": {
+    "criteria": {
+      "has_tag_c_dyes_brown_1": "2026-10-23 22:33:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/expert_tasting": {
+    "criteria": {
+      "eat_lollipop_2": "2026-10-23 22:49:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2026-10-23 22:46:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown": {
+    "criteria": {
+      "has_tag_c_dyes_brown_2": "2026-10-23 22:33:37 +0000"
     },
     "done": true
   },

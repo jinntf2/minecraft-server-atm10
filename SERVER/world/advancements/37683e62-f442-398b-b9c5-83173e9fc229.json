@@ -928,12 +928,6 @@
     },
     "done": true
   },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2026-10-19 20:28:51 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2026-10-19 20:28:33 +0000"
@@ -943,6 +937,66 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2026-10-19 20:28:33 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2026-10-19 20:28:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/root": {
+    "criteria": {
+      "halloween": "2026-10-23 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/halloween": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-10-23 21:38:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-10-23 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/key": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-10-23 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-10-23 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_trapdoor": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2026-10-23 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_gate": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2026-10-23 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/statue": {
+    "criteria": {
+      "has_item_minecraft_smooth_stone_slab_2": "2026-10-23 22:00:10 +0000"
     },
     "done": true
   },

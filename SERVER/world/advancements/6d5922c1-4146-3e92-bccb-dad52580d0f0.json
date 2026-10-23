@@ -2072,11 +2072,11 @@
     },
     "done": true
   },
-  "supplementaries:recipe/soap/map": {
+  "repurposed_structures:outposts": {
     "criteria": {
-      "has_item_minecraft_filled_map_1": "2026-10-23 01:18:45 +0000"
+      "in_outpost_snowy": "2026-10-23 01:14:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -2090,11 +2090,65 @@
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
+  "supplementaries:recipe/soap/map": {
     "criteria": {
-      "in_outpost_snowy": "2026-10-23 01:14:15 +0000"
+      "has_item_minecraft_filled_map_1": "2026-10-23 01:18:45 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2026-10-23 23:32:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_boat_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_boat_2": "2026-10-23 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2026-10-23 21:36:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2026-10-23 23:43:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2026-10-23 23:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-10-23 23:50:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 23:48:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2026-10-23 23:26:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2026-10-23 23:25:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
