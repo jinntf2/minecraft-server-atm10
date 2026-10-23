@@ -2077,21 +2077,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "crying_obsidian": "2026-10-23 02:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2026-10-23 02:17:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2026-10-23 02:01:11 +0000"
+      "bastion": "2026-10-23 01:59:22 +0000"
     },
     "done": true
   },
@@ -2101,9 +2089,21 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "bastion": "2026-10-23 01:59:22 +0000"
+      "distract_piglin": "2026-10-23 02:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-10-23 02:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-10-23 02:17:22 +0000"
     },
     "done": true
   },

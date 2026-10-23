@@ -1209,12 +1209,6 @@
     },
     "done": true
   },
-  "pneumaticcraft:pressure_tube": {
-    "criteria": {
-      "0": "2026-10-19 03:42:00 +0000"
-    },
-    "done": true
-  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2026-10-19 03:41:49 +0000"
@@ -1227,9 +1221,63 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2026-10-19 03:42:00 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2026-10-19 03:42:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/ash_brick": {
+    "criteria": {
+      "has_tag_c_ash_1": "2026-10-23 03:53:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 03:51:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 03:51:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 03:51:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/root": {
+    "criteria": {
+      "halloween": "2026-10-23 03:47:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:event/halloween": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 03:47:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2026-10-23 03:53:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2026-10-23 03:51:12 +0000"
     },
     "done": true
   },
